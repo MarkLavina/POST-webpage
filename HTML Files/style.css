@@ -1,0 +1,86 @@
+h1 {
+    font-size: 60px;
+    color: #167187;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #daf0f7;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(40, 156, 156);
+}
+
+footer {
+    color: #daf0f7;
+    background-color: #167187;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: 2px;
+    border-left: 1px;
+}
+
+main {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.icon {
+    margin-top: 40px;
+    width: 130px;
+}
+
+.main_image {
+    width: 80%;
+}
+
+
+nav {
+    background-color: #167187;
+}
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    width: 120px;
+    padding: 15px 0px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #daf0f7;
+}
+
+main a {
+    text-decoration: none;
+    display: inline-block;
+    width: 350px;
+    padding: 15px 0px;
+    color: #ffffff;
+}
+
+main a:hover {
+    color: #daf0f7;
+}
+
+.how {
+    background-color: #167187;
+    border: #167187;
+    border-radius: 5px;
+}
+
+.why {
+    background-color: #167187;
+    border: #167187;
+    border-radius: 5px;
+}
+
+.hero_image {
+    background-image: url("ocean.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    height: 600px;
+}
